@@ -27,3 +27,8 @@ Requirement 4 (REQUIRED)  Implement a second use case for observers to show that
 
 
 Task 3 would take 25 estimated hours in total to accomplish the given requirements and make the observer functionality more generic.
+
+For better view we have attached an image which if properly formatted:
+<img width="880" alt="Screen Shot 2022-04-10 at 2 46 22 PM" src="https://user-images.githubusercontent.com/97926077/162634834-523c837c-4913-4377-94bc-7caab357f250.png">
+
+
